@@ -1,2 +1,5 @@
 Hello Demo
+<<<<<<< HEAD
 feature 2 sửa file
+=======
+>>>>>>> dd244b386ea83fabf8a60ef5b73f3a56356e3d57
